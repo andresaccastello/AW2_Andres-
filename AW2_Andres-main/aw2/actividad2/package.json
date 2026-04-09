@@ -1,0 +1,14 @@
+{
+  "name": "actividad2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node node.mjs",
+    "Lectura" : "node Lectura.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
