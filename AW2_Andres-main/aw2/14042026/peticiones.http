@@ -1,0 +1,21 @@
+GET https://ies21.edu.ar/
+
+////////////////////////////
+
+GET https://69cbcb780b417a19e07b42c1.mockapi.io/api/v1/Productos/
+
+////////////////////////////
+###--------------------
+#post -
+GET http://localhost:3000/
+###--------------------
+#post -
+###--------------------
+#post -
+POST http://localhost:3000 
+###--------------------
+#post -
+PUT http://localhost:3000
+###--------------------
+#post -
+DELETE http://localhost:3000
